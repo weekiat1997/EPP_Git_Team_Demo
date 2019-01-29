@@ -1,3 +1,5 @@
+Version 1.1.1 Duo
+
 /********************
 Just to simulate content in a programming source code
 All statements starts as "Code B" in this file
@@ -12,3 +14,4 @@ All statements starts as "Code B" in this file
 7. Code B
 8. Code B
 9. Code B
+ NEW CODE! :)
